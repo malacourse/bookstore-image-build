@@ -1,0 +1,2 @@
+WAR_FILE_LOCATION=http://nexus3-cicd-build-tools.mikes-apps.mikelacourse-services.com/repository/releases/com/redhat/training/bookstore/1.0/bookstore-1.0.war
+BUILD_NUMBER=1.0
