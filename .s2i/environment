@@ -1,2 +1,2 @@
 WAR_FILE_LOCATION=http://nexus3-cicd-build-tools.mikes-apps.mikelacourse-services.com/repository/releases/mikes-cicd-lab1/bookstore/1.4/bookstore-1.4.war
-BUILD_NUMBER=40
+BUILD_NUMBER=44
